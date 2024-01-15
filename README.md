@@ -5,7 +5,7 @@ Project prompt: Assume that you are working as a data analyst at a utility compa
 My analysis included the following focus areas:
 - Hypothesis testing on the ratio of respondents concerned about environmental issues to see if we can say with 95% certainty that more respondents are concerned about the environment than apathetic or not
 - Training and applying a random forest classifier to predict which respondents would be concerned about environmental issues
-- Training and applying a random forest classifier to predict which respondent indoor temperature preferences
+- Training and applying a random forest classifier to predict respondent indoor temperature preferences
 - Manipulating the data to translate the comfort rating and valuation of indoor temperature prefence into a categorical (qualitative) variable. I then used this to compare by gender the indoor temperature preferences
 - Identifying which independent variables have the largest impact on an individual's willingness to participate in DSM (demand-side mgmt) programs
 - Creating a new column regarding house sizing, dropping nulls, and identifying the feature strength in helping to classify DSM willingness
